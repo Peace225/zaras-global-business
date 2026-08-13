@@ -1,4 +1,3 @@
-// apps/web/components/home/ProjectMap.tsx
 "use client";
 
 import { useState } from "react";
@@ -39,6 +38,7 @@ const hubs: Hub[] = [
   {
     id: "regional",
     city: "Afrique Centrale & Subsaharienne",
+    country: "Multirégional",
     role: "Expansion & Développement Régional",
     description: "Déploiement multisectoriel axé sur la sécurité alimentaire, la transition énergétique et l'aménagement durable des territoires.",
     status: "En Expansion Continue",
