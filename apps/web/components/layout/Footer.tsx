@@ -33,7 +33,7 @@ export default function Footer() {
             <div className="space-y-3 pt-2 text-sm text-slate-300">
               <div className="flex items-center gap-3">
                 <MapPin size={18} className="text-[#d8b45b] shrink-0" />
-                <span>Abidjan, Côte d'Ivoire</span>
+                <span>Bangui, République Centrafricaine</span>
               </div>
               <div className="flex items-center gap-3">
                 <Mail size={18} className="text-[#d8b45b] shrink-0" />
@@ -50,7 +50,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li>
                 <Link href="/a-propos" className="text-slate-300 hover:text-[#d8b45b] transition">
-                  À propos
+                  A propos
                 </Link>
               </li>
               <li>

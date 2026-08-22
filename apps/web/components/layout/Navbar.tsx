@@ -86,7 +86,8 @@ export default function Navbar() {
               </span>
             </div>
 
-            <div className="hidden sm:block">
+            {/* Modification ici : retrait de 'hidden sm:block' */}
+            <div>
               <div className="text-sm font-black leading-tight tracking-wide text-[#07111f]">
                 ZARAS
               </div>
